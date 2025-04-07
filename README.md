@@ -84,4 +84,4 @@ Everything you need to level up your lifestyle — from fashion to tech.
   💵 *$130*  
   🛒 [Shop Now](#)
 ---
-visit our link:- https://app.netlify.com/sites/delicate-truffle-efbaa5/deploys/
+visit our link:- https://delicate-truffle-efbaa5.netlify.app/
